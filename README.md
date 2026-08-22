@@ -21,11 +21,11 @@ const roshan = {
 
 ## 📌 Featured Work
 
-**[Extractly](https://github.com/rautroshan-sys/extractly)** — Full RAG pipeline: Flask backend, PostgreSQL/pgvector for vector search, Gemini embeddings + generation, pypdf/pymupdf with OCR fallback for document parsing, deployed on Render. Built as my CS50x final project.
+**[Extractly](https://github.com/rautroshan-sys/PythonBTA/Project)** — Full RAG pipeline: Flask backend, PostgreSQL/pgvector for vector search, Gemini embeddings + generation, pypdf/pymupdf with OCR fallback for document parsing, deployed on Render. Built as my CS50x final project.
 
-**[FinHabits](https://github.com/rautroshan-sys/finhabits)** — AI-powered personal finance app with a 3-layer inference pipeline (Regex → Groq Llama 3 → Gemini fallback) for auto-categorizing Indian bank SMS transactions without manual entry. Built for Google Solution Challenge 2026, currently paused.
+**[FinHabits](https://github.com/rautroshan-sys/finhabits.test)** — AI-powered personal finance app with a 3-layer inference pipeline (Regex → Groq Llama 3 → Gemini fallback) for auto-categorizing Indian bank SMS transactions without manual entry. Built for Google Solution Challenge 2026, currently paused.
 
-**[CrisisSync (Concept)](https://github.com/rautroshan-sys/crisissync)** — Designed and prototyped the UI/UX for an AI hotel emergency-response platform: guest SOS flow, command-center dashboard, floor-level incident map. Architected a Gemini-powered triage engine and modified-Dijkstra evacuation routing on paper as the basis for future backend work. Early-stage; backend not yet implemented.
+**[CrisisSync (Concept)](https://github.com/rautroshan-sys/Crisis-sync)** — Designed and prototyped the UI/UX for an AI hotel emergency-response platform: guest SOS flow, command-center dashboard, floor-level incident map. Architected a Gemini-powered triage engine and modified-Dijkstra evacuation routing on paper as the basis for future backend work. Early-stage; backend not yet implemented.
 
 **[MyTaskTracker](https://github.com/rautroshan-sys/mytasktracker)** — Full-stack task tracker with a GitHub-style contribution heatmap. Node.js/Express backend, SQLite, deployed live on Railway.
 
@@ -37,7 +37,7 @@ const roshan = {
 
 ## 📄 Resume
 
-📄 [View & Download Resume (PDF)](https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf)
+📄 [View & Download Resume (PDF)](file:///home/roshan/Downloads/resume.pdf)
 
 ---
 
