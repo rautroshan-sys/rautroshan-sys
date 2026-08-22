@@ -10,10 +10,10 @@
 const roshan = {
   role: "AI/ML Engineer (in training)",
   university: "BE-CSE (AI & ML), APSIT — Mumbai University",
-  currentFocus: "RAG systems, LLM agents, Text-to-SQL",
+  currentFocus: "LLM application engineering, RAG pipelines, DSA",
   targetGoal: "SIH 2026 — FloatChat (conversational AI over ARGO ocean data)",
   longTerm: "GSoC 2027 · DAAD WISE · MLH Fellowship",
-  funFact: "Started coding March 2025 — shipping production RAG pipelines since",
+  funFact: "Started coding March 2025 — actively building and deploying AI tools",
 };
 ```
 
@@ -23,9 +23,13 @@ const roshan = {
 
 **[Extractly](https://github.com/rautroshan-sys/extractly)** — Full RAG pipeline: Flask backend, PostgreSQL/pgvector for vector search, Gemini embeddings + generation, pypdf/pymupdf with OCR fallback for document parsing, deployed on Render. Built as my CS50x final project.
 
-**[FinHabits](https://github.com/rautroshan-sys/finhabits)** — AI-powered personal finance app with a 3-layer inference pipeline (regex → Groq Llama 3 → Gemini fallback) for auto-categorizing transactions. Built and prototyped, currently paused.
+**[FinHabits](https://github.com/rautroshan-sys/finhabits)** — AI-powered personal finance app with a 3-layer inference pipeline (Regex → Groq Llama 3 → Gemini fallback) for auto-categorizing Indian bank SMS transactions without manual entry. Built for Google Solution Challenge 2026, currently paused.
 
-**[MyTaskTracker](https://github.com/rautroshan-sys/mytasktracker)** — Task tracker with a GitHub-style contribution heatmap. Node.js/Express backend, SQLite, deployed on Railway.
+**[CrisisSync (Concept)](https://github.com/rautroshan-sys/crisissync)** — Designed and prototyped the UI/UX for an AI hotel emergency-response platform: guest SOS flow, command-center dashboard, floor-level incident map. Architected a Gemini-powered triage engine and modified-Dijkstra evacuation routing on paper as the basis for future backend work. Early-stage; backend not yet implemented.
+
+**[MyTaskTracker](https://github.com/rautroshan-sys/mytasktracker)** — Full-stack task tracker with a GitHub-style contribution heatmap. Node.js/Express backend, SQLite, deployed live on Railway.
+
+**[LLM & RAG Learning Repo](https://github.com/rautroshan-sys/PythonBTA)** — Self-directed study repo building toward a working RAG pipeline, covering embeddings and LLM API integration basics.
 
 *Currently building: FloatChat for SIH 2026 — Text-to-SQL / RAG over structured ARGO ocean data.*
 
