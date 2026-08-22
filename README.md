@@ -13,7 +13,7 @@ const roshan = {
   currentFocus: "LLM application engineering, RAG pipelines, DSA",
   targetGoal: "SIH 2026 — FloatChat (conversational AI over ARGO ocean data)",
   longTerm: "GSoC 2027 · DAAD WISE",
-  funFact: "Started coding March 2025 — actively building and deploying AI tools",
+  funFact: "Started coding March 2026 — actively building and deploying AI tools",
 };
 ```
 
