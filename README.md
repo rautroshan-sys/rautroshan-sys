@@ -12,7 +12,7 @@ const roshan = {
   university: "BE-CSE (AI & ML), APSIT — Mumbai University",
   currentFocus: "LLM application engineering, RAG pipelines, DSA",
   targetGoal: "SIH 2026 — FloatChat (conversational AI over ARGO ocean data)",
-  longTerm: "GSoC 2027 · DAAD WISE · MLH Fellowship",
+  longTerm: "GSoC 2027 · DAAD WISE",
   funFact: "Started coding March 2025 — actively building and deploying AI tools",
 };
 ```
@@ -31,7 +31,7 @@ const roshan = {
 
 **[LLM & RAG Learning Repo](https://github.com/rautroshan-sys/PythonBTA)** — Self-directed study repo building toward a working RAG pipeline, covering embeddings and LLM API integration basics.
 
-*Currently building: FloatChat for SIH 2026 — Text-to-SQL / RAG over structured ARGO ocean data.*
+*Currently learning: AI frameworks and agentic AI workflows — Pydantic AI, LangChain, LangGraph, LlamaIndex.*
 
 ---
 
