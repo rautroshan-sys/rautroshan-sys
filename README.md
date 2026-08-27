@@ -35,12 +35,6 @@ const roshan = {
 
 ---
 
-## 📄 Resume
-
-📄 [View & Download Resume (PDF)](https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf)
-
----
-
 ## ⚔️ Tech Arsenal
 
 | Category | Stack |
