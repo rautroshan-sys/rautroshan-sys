@@ -12,7 +12,6 @@ const roshan = {
   university: "BE-CSE (AI & ML), APSIT — Mumbai University",
   currentFocus: "LLM application engineering, RAG pipelines, DSA",
   targetGoal: "SIH 2026 — FloatChat (conversational AI over ARGO ocean data)",
-  longTerm: "GSoC 2027 · DAAD WISE",
   funFact: "Started coding February 2026 — actively building and deploying AI tools",
 };
 ```
