@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/roshan-raut-b335993b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#-resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 ```js
@@ -34,7 +34,11 @@ const roshan = {
 
 ---
 
-**RESUME** https://github.com/rautroshan-sys/rautroshan-sys/edit/main/resume.pdf
+## 📄 Resume
+
+<a href="https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf" target="_blank">📄 View my resume (opens in a new tab)</a>
+
+---
 
 ## ⚔️ Tech Arsenal
 
@@ -45,4 +49,3 @@ const roshan = {
 | **Data & Core CS** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **AI / ML** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge) |
 | **Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) |
-
