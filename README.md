@@ -36,7 +36,7 @@ const roshan = {
 
 ## 📄 Resume
 
-<a href="https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf" target="_blank">📄 View my resume (opens in a new tab)</a>
+<a href="https://github.com/rautroshan-sys/rautroshan-sys/blob/main/resume.pdf" target="_blank">📄 View my resume </a>
 
 ---
 
